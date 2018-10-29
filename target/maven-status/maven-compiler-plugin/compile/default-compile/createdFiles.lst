@@ -1,0 +1,9 @@
+com/batch/lotto/to/Lottery.class
+com/batch/lotto/step/writer/Writer.class
+com/batch/lotto/BatchController.class
+com/batch/lotto/JobCompletionNotificationListener.class
+com/batch/lotto/step/reader/Reader.class
+com/batch/lotto/ServletInitializer.class
+com/batch/lotto/Application.class
+com/batch/lotto/step/processor/Processor.class
+com/batch/lotto/BatchConfiguration.class
